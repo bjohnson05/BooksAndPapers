@@ -1,1 +1,2 @@
-# LINKS TO ARTICLES OF INTEREST FOR CMSI 185 CLASS
+# This is stuff for CMSI 185
+## Created and updated 2016-10-21 for fall semester
