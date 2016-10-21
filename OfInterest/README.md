@@ -24,6 +24,5 @@
 - [Future of Computing Research Industry-Academic Collaborations](http://www.cccblog.org/2016/09/21/the-future-of-computing-research-industry-academic-collaborations/)
 - [We have to start thinking about cybersecurity in space](https://www.helpnetsecurity.com/2016/09/22/start-thinking-cybersecurity-space/)
 - [Why I’m suffering from nanotechnology fatigue](http://www.slate.com/articles/technology/future_tense/2016/09/why_i_m_suffering_from_nanotechnology_fatigue.html?sid=5753601fa22762f6628b4620&wpsrc=newsletter_futuretense)
-
-
+- [ACM Webinar on Scalable Machine Learning](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=lcwebpage&eventid=1244624&sessionid=1&key=286042D537A45A41F7ECC947A3D2C193&regTag=&sourcepage=register)
 
