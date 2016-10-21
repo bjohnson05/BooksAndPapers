@@ -4,7 +4,14 @@
 - [An algorithm for taxi sharing](http://www.alphagalileo.org/ViewItem.aspx?ItemId=168243&CultureCode=en)
 - [Apple issued an emergency iPhone update after cyberattack](http://www.slate.com/blogs/future_tense/2016/08/26/apple_issued_an_emergency_iphone_update_after_cyberattack.html?sid=5753601fa22762f6628b4620&wpsrc=newsletter_futuretense)
 - [Do LifeLock and AllClear ID Actually Keep Victims of Hacks Safe](http://www.slate.com/articles/business/future_tense/2016/08/do_lifelock_and_allclear_id_actually_keep_victims_of_hacks_safe.html?sid=5753601fa22762f6628b4620&wpsrc=newsletter_futuretense)
+- [We need a word for the feeling of happiness and jealousy Facebook](http://www.slate.com/blogs/future_tense/2016/08/30/freudenschade_frenvy_we_need_a_word_for_the_feeling_of_happiness_and_jealousy.html?sid=5753601fa22762f6628b4620&wpsrc=newsletter_futuretense)
+- [From Tim Berners-Lee to Kim Dotcom a who's who of Internet 2.0 innovators V3](http://www.v3.co.uk/v3-uk/feature/2471545/from-tim-berners-lee-to-kim-dotcom-a-whos-who-of-internet-20-innovators#)
+- [Hacking, Cryptography, and the Countdown to Quantum Computing](http://www.newyorker.com/tech/elements/hacking-cryptography-and-the-countdown-to-quantum-computing)
 
 ## CMSI 401/402 Links
 - [Android LabBuild Multiscreen App - Women Who Code DC (Washington, DC) Meetup](https://www.meetup.com/Women-Who-Code-DC/events/232213365/)
-
+- [Formal Verification Creates Hacker-Proof Code] (https://www.quantamagazine.org/20160920-formal-verification-creates-hacker-proof-code/)
+- [From Tim Berners-Lee to Kim Dotcom a who's who of Internet 2.0 innovators V3](http://www.v3.co.uk/v3-uk/feature/2471545/from-tim-berners-lee-to-kim-dotcom-a-whos-who-of-internet-20-innovators#)
+- [Front End Hack Night - Women Who Code DC](https://www.meetup.com/Women-Who-Code-DC/events/233046976/)
+- [Gov. Brown signs law to plan expansion of computer science education](https://edsource.org/2016/gov-brown-signs-law-to-plan-expansion-of-computer-science-education/569895)
+- [Hacking, Cryptography, and the Countdown to Quantum Computing](http://www.newyorker.com/tech/elements/hacking-cryptography-and-the-countdown-to-quantum-computing)
