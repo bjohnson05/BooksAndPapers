@@ -26,3 +26,6 @@
 - [Why I’m suffering from nanotechnology fatigue](http://www.slate.com/articles/technology/future_tense/2016/09/why_i_m_suffering_from_nanotechnology_fatigue.html?sid=5753601fa22762f6628b4620&wpsrc=newsletter_futuretense)
 - [ACM Webinar on Scalable Machine Learning](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=lcwebpage&eventid=1244624&sessionid=1&key=286042D537A45A41F7ECC947A3D2C193&regTag=&sourcepage=register)
 - [Internet Attack Spreads, Disrupting Major Websites](http://www.nytimes.com/2016/10/22/business/internet-problems-attack.html?emc=edit_na_20161021&nlid=73605099&ref=cta)
+
+## Links for EVERYBODY! EVERYBODY!
+- [Who Controls the Internet?](http://www.slate.com/articles/technology/future_tense/2016/11/a_cheat_sheet_guide_to_who_controls_the_internet.html?wpsrc=newsletter_futuretense&sid=5753601fa22762f6628b4620)
