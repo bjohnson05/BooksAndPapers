@@ -29,3 +29,4 @@
 
 ## Links for EVERYBODY! EVERYBODY!
 - [Who Controls the Internet?](http://www.slate.com/articles/technology/future_tense/2016/11/a_cheat_sheet_guide_to_who_controls_the_internet.html?wpsrc=newsletter_futuretense&sid=5753601fa22762f6628b4620)
+- [Janine Jackson CounterSpin interview of Brandi Collins about Surveillance (mp3 audio)](http://www.fair.org/audio/counterspin/CounterSpin161028Collins.mp3)
