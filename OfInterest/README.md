@@ -1,4 +1,4 @@
-# Links to Articles of Interest for Computer Science
+# Links to On-line Articles of Interest for Computer Science
 
 ## CMSI 185 Links
 - [An algorithm for taxi sharing](http://www.alphagalileo.org/ViewItem.aspx?ItemId=168243&CultureCode=en)
