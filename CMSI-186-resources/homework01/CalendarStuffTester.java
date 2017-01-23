@@ -217,19 +217,19 @@ public class CalendarStuffTester {
       catch( Exception e ) { System.out.println( false ); }
 
       System.out.print( "   Test February 28, 2004 with February 28, 2005  : " );
-      try { System.out.println( CalendarStuff.dateEquals(  2, 29, 2004, 2, 29, 2004 ) ? "equal" : "not equal" ); }
+      try { System.out.println( CalendarStuff.dateEquals(  2, 28, 2004, 2, 28, 2005 ) ? "equal" : "not equal" ); }
       catch( Exception e ) { System.out.println( false ); }
 
       System.out.print( "   Test February 20, 2000 with January 13, 2000  : " );
-      try { System.out.println( CalendarStuff.dateEquals(  2, 29, 2004, 2, 29, 2004 ) ? "equal" : "not equal" ); }
+      try { System.out.println( CalendarStuff.dateEquals(  2, 20, 2000, 1, 13, 2000 ) ? "equal" : "not equal" ); }
       catch( Exception e ) { System.out.println( false ); }
 
       System.out.print( "   Test February 20, 2000 with January 20, 2001  : " );
-      try { System.out.println( CalendarStuff.dateEquals(  2, 29, 2004, 2, 29, 2004 ) ? "equal" : "not equal" ); }
+      try { System.out.println( CalendarStuff.dateEquals(  2, 20, 2001, 1, 20, 2001 ) ? "equal" : "not equal" ); }
       catch( Exception e ) { System.out.println( false ); }
 
       System.out.print( "   Test February 20, 2000 with January 13, 2010  : " );
-      try { System.out.println( CalendarStuff.dateEquals(  2, 29, 2004, 2, 29, 2004 ) ? "equal" : "not equal" ); }
+      try { System.out.println( CalendarStuff.dateEquals(  2, 20, 2000, 1, 13, 2010 ) ? "equal" : "not equal" ); }
       catch( Exception e ) { System.out.println( false ); }
 
    }
