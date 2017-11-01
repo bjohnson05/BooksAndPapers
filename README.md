@@ -1,8 +1,6 @@
 # BooksAndPapers
 ## E-Book Repository
-Here we have some books that can be used for classes.
-
-Warning, "Here there be dragons..."
+Here we have some books that should be used *ONLY* for my CMSI for classes.
 
 These books and papers were all found using links to free or open-source sites,
 and are thus believed to *NOT* be infringing on anyone.  If there are problems
