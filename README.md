@@ -5,7 +5,8 @@ Here we have some books that can be used for classes.
 Warning, "Here there be dragons..."
 
 These books and papers were all found using links to free or open-source sites,
-and are thus believed to *NOT* be pirated material.
+and are thus believed to *NOT* be infringing on anyone.  If there are problems
+or conflicts, *PLEASE* inform me and the offending material will be removed immediately.
 
 Saving money for students is the over-arching goal.
 
