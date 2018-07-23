@@ -1,4 +1,9 @@
 # BooksAndPapers
+
+Some books, papers, articles, and links to things that are happening as our world becomes increasingly connected.
+
+Presented for your education, edification, entertainment, and above all to make you **THINK**.....
+
 ## E-Book Repository
 Here we have some books that should be used *ONLY* for my CMSI for classes.
 
