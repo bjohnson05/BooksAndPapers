@@ -35,7 +35,7 @@
 - [....and one more.......](http://www.slate.com/blogs/future_tense/2016/10/24/chinese_company_recalls_webcams_and_other_products_after_ddos_attack.html?wpsrc=newsletter_futuretense&sid=5753601fa22762f6628b4620)
 - [Saving the World From Code](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
 - [Our Robot Overlords?](https://www.newyorker.com/magazine/2017/10/23/welcoming-our-new-robot-overlords)
-- [Ethical Quandries for Self-Driving Cars] (http://www.slate.com/articles/technology/future_tense/2016/06/self_driving_cars_crash_optimization_algorithms_offer_an_ethical_quandary.html?sid=5753601fa22762f6628b4620&wpsrc=newsletter_futuretense)
+- [Ethical Quandries for Self-Driving Cars](http://www.slate.com/articles/technology/future_tense/2016/06/self_driving_cars_crash_optimization_algorithms_offer_an_ethical_quandary.html?sid=5753601fa22762f6628b4620&wpsrc=newsletter_futuretense)
 - [Alexa, Cortana, and Siri are Terrifying!]( http://www.slate.com/articles/technology/cover_story/2016/04/alexa_cortana_and_siri_aren_t_novelties_anymore_they_re_our_terrifyingly.html?sid=5753601fa22762f6628b4620&wpsrc=newsletter_futuretense)
 - [The Fed's Meaningless Cyberbreaches](http://www.slate.com/articles/technology/future_tense/2016/06/the_fed_s_51_cyberbreaches_don_t_mean_anything.html?sid=5753601fa22762f6628b4620&wpsrc=newsletter_futuretense)
 - [Hacking for Diplomacy](http://www.latimes.com/business/technology/la-fi-tn-hacking-4-diplomacy-20161206-story.html)
