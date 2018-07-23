@@ -40,7 +40,7 @@
 - [The Fed's Meaningless Cyberbreaches](http://www.slate.com/articles/technology/future_tense/2016/06/the_fed_s_51_cyberbreaches_don_t_mean_anything.html?sid=5753601fa22762f6628b4620&wpsrc=newsletter_futuretense)
 - [Hacking for Diplomacy](http://www.latimes.com/business/technology/la-fi-tn-hacking-4-diplomacy-20161206-story.html)
 - [Government Stockpile of Computer Vulnerabilities](http://www.slate.com/articles/technology/future_tense/2017/05/the_process_the_government_uses_to_stockpile_computer_vulnerabilities_is.html)
-- [](https://quantumexperience.ng.bluemix.net/qx/user-guide)
+- [IBM's Quantum Experience Lab Site](https://quantumexperience.ng.bluemix.net/qx/user-guide)
 - [Saving the World from Code](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
 - [Musk's Car in Space - f'realz?!](https://www.theguardian.com/science/2018/feb/07/space-oddity-elon-musk-spacex-car-mars-falcon-heavy?utm_source=esp&utm_medium=Email&utm_campaign=GU+Today+USA+-+Collections+2017&utm_term=263267&subid=19024174&CMP=GT_US_collection)
 - [Supreme Court Decision Makes the Rich Richer](https://www.brookings.edu/research/ohio-v-amex/?utm_campaign=Brookings%20Brief&utm_source=hs_email&utm_medium=email&utm_content=64022490)
