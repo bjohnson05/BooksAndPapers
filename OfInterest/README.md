@@ -82,3 +82,5 @@
 - [Same Vulnerabilities Prevalent after 9 Years](https://www.helpnetsecurity.com/2018/07/27/web-based-vulnerabilities-still-prevalent/)
 - [New Spectre Cyberthreat Evades Patches](https://ucrtoday.ucr.edu/54727)
 - [Proposal on Ethics of C.S.](https://www.nature.com/articles/d41586-018-05791-w)
+- [How Frightened Should We Be of A.I.](https://www.newyorker.com/magazine/2018/05/14/how-frightened-should-we-be-of-ai)
+- [Psychological testing and assessments are going high-tech](https://www.apa.org/monitor/2018/07-08/ce-corner.aspx)
