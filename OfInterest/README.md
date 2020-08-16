@@ -13,7 +13,7 @@
 
 ## CMSI 401/402 Links
 - [Android LabBuild Multiscreen App - Women Who Code DC (Washington, DC) Meetup](https://www.meetup.com/Women-Who-Code-DC/events/232213365/)
-- [Formal Verification Creates Hacker-Proof Code] (https://www.quantamagazine.org/20160920-formal-verification-creates-hacker-proof-code/)
+- [Formal Verification Creates Hacker-Proof Code](https://www.quantamagazine.org/20160920-formal-verification-creates-hacker-proof-code/)
 - [From Tim Berners-Lee to Kim Dotcom a who's who of Internet 2.0 innovators V3](http://www.v3.co.uk/v3-uk/feature/2471545/from-tim-berners-lee-to-kim-dotcom-a-whos-who-of-internet-20-innovators#)
 - [Front End Hack Night - Women Who Code DC](https://www.meetup.com/Women-Who-Code-DC/events/233046976/)
 - [Gov. Brown signs law to plan expansion of computer science education](https://edsource.org/2016/gov-brown-signs-law-to-plan-expansion-of-computer-science-education/569895)
@@ -84,3 +84,11 @@
 - [Proposal on Ethics of C.S.](https://www.nature.com/articles/d41586-018-05791-w)
 - [How Frightened Should We Be of A.I.](https://www.newyorker.com/magazine/2018/05/14/how-frightened-should-we-be-of-ai)
 - [Psychological testing and assessments are going high-tech](https://www.apa.org/monitor/2018/07-08/ce-corner.aspx)
+- [A Cyberattack on Garmin Disrupted More Than Workouts](https://www.wired.com/story/garmin-outage-ransomware-attack-workouts-aviation/)
+- [BadPower attack corrupts fast chargers to melt or set your device on fire](https://www.zdnet.com/article/badpower-attack-corrupts-fast-chargers-to-melt-or-set-your-device-on-fire/)
+- [Cisco's warning: Critical flaw in IOS routers allows 'complete system compromise'](https://www.zdnet.com/article/ciscos-warning-critical-flaw-in-ios-routers-allows-complete-system-compromise/)
+- [A Closer Look at Location Data: Privacy and Pandemics](https://fpf.org/2020/03/25/a-closer-look-at-location-data-privacy-and-pandemics/?mkt_tok=eyJpIjoiWXpCbFpHUTJNVGRsTVdSaiIsInQiOiJLSjVjSFwvMnI0TVI4bExcLzJ5aGJ0VHd3VytEMTErbStacUdRdTZRZitQTXVuT2lkUTVRSmZEa2xZZEJLN3FhNHlncjFxTjFFWWJhdEs1alpjUkdnazFaRmRLVkFYU2JPVForWm1mbnFUcENJWmRWaUEzZ1EyK1wvb01MSXo4cno0WCJ9&utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200408+data+nl)
+- [Privacy fears over home security cameras as Wi-Fi signals can be hacked by criminals to tell when people are home or not](https://www.dailymail.co.uk/sciencetech/article-8493921/Wi-Fi-signals-hacked-criminals-tell-people-home-not-experts-warn.html)
+- [Customs and Border Protection Can Track Cars Nationwide Via Commercial Database](https://slate.com/technology/2020/07/customs-border-protection-tracking-cars.html?sid=5753601fa22762f6628b4620&utm_medium=email&utm_source=newsletter&utm_content=TheSlatest&utm_campaign=traffic)
+- [988 people have been shot and killed by police in the past year](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200720+data+ai+nl&mkt_tok=eyJpIjoiTnpCbE9EQTNaamhtWlRoayIsInQiOiJXRXdyOWtIRW9VMmY0Z3VhdXgrRWZkdzdcL3U2TmtGeUg4ZXoxSTFYTjlBR0lraEZDRnBjSHk0R3dhc2N4WUEzY1dEQzdUUmJxN1IyZ2dtakxJWWJOK1g2b3MxOWhIODBSeGJHd0VQb1h4SldXXC91M0JxK09MbHVDQ0Uza3l4QXdFIn0%3D)
+- [12k+ Android apps contain master passwords, secret access keys, secret commands](https://www.zdnet.com/article/12k-android-apps-contain-master-passwords-secret-access-keys-secret-commands/)
