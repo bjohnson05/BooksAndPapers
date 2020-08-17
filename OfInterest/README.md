@@ -95,4 +95,4 @@
 - [Is Twitter Shadow-Banning Conservatives?](https://slate.com/technology/2018/07/republicans-accuse-twitter-of-shadow-banning-conservatives.html?utm_medium=email&utm_campaign=traffic&utm_content=FutureTense&utm_source=newsletter&sid=5753601fa22762f6628b4620)
 - [U.K. Wants to Lead In Ethical A.I.](https://slate.com/technology/2018/08/the-u-k-wants-to-be-the-world-leader-in-ethical-a-i.html?utm_medium=email&utm_campaign=traffic&utm_content=FutureTense&utm_source=newsletter&sid=5753601fa22762f6628b4620)
 - [Proposal on Ethics of C.S.](https://www.nature.com/articles/d41586-018-05791-w)
-
+- [Toxic trade-offs at Facebook](https://messaging-custom-newsletters.nytimes.com/template/oakv2?campaign_id=158&emc=edit_ot_20200817&instance_id=21346&nl=on-tech-with-shira-ovide&productCode=OT&regi_id=92101614&segment_id=36313&te=1&uri=nyt%3A%2F%2Fnewsletter%2F860cc092-746a-5aaa-b891-e3070f8592f7&user_id=ae0a09219f6c26d9b166f7e999d81854)
