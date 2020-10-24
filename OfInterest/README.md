@@ -42,6 +42,11 @@
 - [Customs and Border Protection Can Track Cars Nationwide Via Commercial Database](https://slate.com/technology/2020/07/customs-border-protection-tracking-cars.html?sid=5753601fa22762f6628b4620&utm_medium=email&utm_source=newsletter&utm_content=TheSlatest&utm_campaign=traffic)
 - [988 people have been shot and killed by police in the past year](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20200720+data+ai+nl&mkt_tok=eyJpIjoiTnpCbE9EQTNaamhtWlRoayIsInQiOiJXRXdyOWtIRW9VMmY0Z3VhdXgrRWZkdzdcL3U2TmtGeUg4ZXoxSTFYTjlBR0lraEZDRnBjSHk0R3dhc2N4WUEzY1dEQzdUUmJxN1IyZ2dtakxJWWJOK1g2b3MxOWhIODBSeGJHd0VQb1h4SldXXC91M0JxK09MbHVDQ0Uza3l4QXdFIn0%3D)
 - [12k+ Android apps contain master passwords, secret access keys, secret commands](https://www.zdnet.com/article/12k-android-apps-contain-master-passwords-secret-access-keys-secret-commands/)
+- [Terrifyingly Convenient: A.I. assistants can give you the news, order you a pizza, and tell you a joke. All you have to do is trust them—completely.](http://www.slate.com/articles/technology/cover_story/2016/04/alexa_cortana_and_siri_aren_t_novelties_anymore_they_re_our_terrifyingly.html)
+- [Hacking, Cryptography, and the Countdown to Quantum Computing](https://www.newyorker.com/tech/annals-of-technology/hacking-cryptography-and-the-countdown-to-quantum-computing)
+- [Why Congress should invest in open-source software](https://www.brookings.edu/techstream/why-congress-should-invest-in-open-source-software/?utm_campaign=Brookings%20Brief&utm_medium=email&utm_content=97607826&utm_source=hs_email)
+- [Addressing Racial Bias in AI: A Guide for Curious Minds](https://towardsdatascience.com/addressing-racial-bias-in-ai-a-guide-for-curious-minds-ebdf403696e3)
+- [Viral WhatsApp Messages Are Triggering Mob Killings In India](https://www.npr.org/2018/07/18/629731693/fake-news-turns-deadly-in-india)
 
 ## Links for EVERYBODY! EVERYBODY!
 - [Who Controls the Internet?](http://www.slate.com/articles/technology/future_tense/2016/11/a_cheat_sheet_guide_to_who_controls_the_internet.html?wpsrc=newsletter_futuretense&sid=5753601fa22762f6628b4620)
